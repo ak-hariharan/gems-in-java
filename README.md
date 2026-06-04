@@ -6,7 +6,9 @@ A deep-dive reference guide into the Java ecosystem, covering everything from JV
 
 | File | Description |
 |------|-------------|
-| [JVM.md](./JVM.md) | 32 core JVM concepts covering memory areas, garbage collection, class loading, JIT compilation, and runtime optimizations |
+| [Core-Java.md](./Core-Java.md) | 150 core Java concepts covering OOP, generics, functional programming, streams, modern Java features, and more |
+| [JVM.md](./JVM.md) | 53 JVM concepts covering memory areas, garbage collection, class loading, bytecode, JIT compilation, and runtime optimizations |
+| [Concurrency.md](./Concurrency.md) | 64 concurrency concepts covering threads, locks, memory model, async programming, virtual threads, and parallel streams |
 
 ## 🧠 What's Inside
 
