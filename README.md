@@ -10,6 +10,7 @@ A deep-dive reference guide into the Java ecosystem, covering everything from JV
 | [JVM.md](./JVM.md) | 53 JVM concepts covering memory areas, garbage collection, class loading, bytecode, JIT compilation, and runtime optimizations |
 | [Concurrency.md](./Concurrency.md) | 64 concurrency concepts covering threads, locks, memory model, async programming, virtual threads, and parallel streams |
 | [Collections.md](./Collections.md) | 200 collections concepts from basics to specialized collections including iterator internals, concurrent collections, queue & heap structures, performance & memory |
+| [Design-Patterns.md](./Design-Patterns.md) | 150 design pattern concepts from fundamentals to enterprise architecture including SOLID principles, creational patterns, structural patterns, behavioral patterns, design smells, refactoring, CQRS, Saga, Repository, DAO, MVC, Hexagonal Architecture, Ports & Adapters, and pattern selection strategies |
 
 ## 🧠 What's Inside
 
