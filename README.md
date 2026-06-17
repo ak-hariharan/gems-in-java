@@ -12,6 +12,7 @@ A deep-dive reference guide into the Java ecosystem, covering everything from JV
 | [Collections.md](./Collections.md) | 200 collections concepts from basics to specialized collections including iterator internals, concurrent collections, queue & heap structures, performance & memory |
 | [Design-Patterns.md](./Design-Patterns.md) | 150 design pattern concepts from fundamentals to enterprise architecture including SOLID principles, creational patterns, structural patterns, behavioral patterns, design smells, refactoring, CQRS, Saga, Repository, DAO, MVC, Hexagonal Architecture, Ports & Adapters, and pattern selection strategies |
 | [Spring-Framework.md](./Spring-Framework.md) | 150 Spring Framework concepts from foundations to advanced container internals including IoC, Dependency Injection, Bean Lifecycle, Bean Scopes, AOP, Transaction Management, Three-Level Cache, Circular Dependency Resolution, Proxy Mechanisms, Context Internals, Performance Optimization |
+| [Spring-Boot.md](./Spring-Boot.md) | 150 Spring Boot concepts covering fundamentals, auto-configuration, starters, configuration management, Actuator, REST APIs, WebFlux, observability, metrics, Docker, Kubernetes, native images, and production best practices |
 
 ## 🧠 What's Inside
 
